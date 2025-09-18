@@ -40,11 +40,11 @@ Glokom, genellikle göz içi basıncının artmasına bağlı olarak optik sinir
 
 | Görsel Açıklama | Görsel |
 |----------------|--------|
-| Şekil 1: Glokom hastalığına ait örnek fundus görseli | ![Şekil1](./images/sekil1.jpg) |
-| Şekil 2: Illumination Correction uygulanmış görsel | ![Şekil2](./images/sekil2.jpg) |
-| Şekil 3: Kan damarları çıkarılmış görsel | ![Şekil3](./images/sekil3.jpg) |
-| Şekil 4: Optik disk segmentasyonu | ![Şekil4](./images/sekil4.jpg) |
-| Şekil 5: Optik cup segmentasyonu | ![Şekil5](./images/sekil5.jpg) |
+| Şekil 1: Glokom hastalığına ait örnek fundus görseli | ![Şekil1](./images/şekil1.jpg) |
+| Şekil 2: Illumination Correction uygulanmış görsel | ![Şekil2](./images/şekil2.jpg) |
+| Şekil 3: Kan damarları çıkarılmış görsel | ![Şekil3](./images/şekil3.jpg) |
+| Şekil 4: Optik disk segmentasyonu | ![Şekil4](./images/şekil4.jpg) |
+| Şekil 5: Optik cup segmentasyonu | ![Şekil5](./images/şekil5.jpg) |
 
 
 ## 🛠️ Kullanılan Teknolojiler
